@@ -2,7 +2,7 @@ package selector
 
 import (
 	"bufio"
-	"calculator/operators"
+	"github.com/AndresMGdev/calculator/operators"
 	"fmt"
 	"os"
 	"strings"

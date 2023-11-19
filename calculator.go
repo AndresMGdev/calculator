@@ -1,11 +1,12 @@
 package main
 
 import (
-	"calculator/selector"
+	"github.com/AndresMGdev/calculator/selector"
 	"fmt"
 )
 
-func Calculator() {
+//Calculator salida de la calculadora
+func main() {
 	fmt.Println("Calculator")
 	selector.Selector()
 }
